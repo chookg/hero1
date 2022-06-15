@@ -1,6 +1,6 @@
 {
-  "name": "chookhero1",
-  "description": "chookhero1",
+  "name": "1234",
+  "description": "1234",
   "env": {
     "UUID": {
       "description": "id，根据实际情况修改 生成网站 https://www.uuidgenerator.net/",
@@ -8,7 +8,7 @@
     },
     "WSPATH": {
       "description": "ws路径，根据实际情况修改",
-      "value": "/wowowowo"
+      "value": "/test"
     },
     "GOVERSION":{
       "description": "go语言编译版本，不要修改",
